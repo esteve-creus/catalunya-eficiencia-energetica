@@ -82,7 +82,7 @@ final["emissions"] = final["emissions"].round(2)
 final["any_mitja"] = final["any_mitja"].round(0)
 final["pct_ab"] = final["pct_ab"].round(1)
 final["pct_fg"] = final["pct_fg"].round(1)
-final["renda"] = final["renda"].round(0)
+final["renda"] = final["renda"].round(2)
 
 # 7. Guardar resultat
 final.to_csv("../data/processed/municipis_energetics.csv", index=False)
