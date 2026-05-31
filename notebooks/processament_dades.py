@@ -24,14 +24,17 @@ renda = pd.read_csv("../data/raw/renda_municipis.csv", sep=";")
 
 # 2. Neteja bàsica
 # Eliminar files sense informació de municipi o amb municipis no identificables
-cert = cert.rename(columns={"POBLACIO": "municipi"})
+cert = cert.rename(columns={"POBLACIO": "municipi", "COMARCA": "comarca"})
 cert = cert.dropna(subset=["municipi"])
 cert = cert[~cert["municipi"].str.contains("\\?", na=False)]
 cert = cert[~cert["municipi"].str.contains("�", na=False)]
+cert = cert[~cert["comarca"].str.contains("\\?", na=False)]
+cert = cert[~cert["comarca"].str.contains("�", na=False)]
 cert = cert.dropna(subset=["ANY_CONSTRUCCIO"])
 
 # Normalitzar noms de municipis
 cert["municipi"]  = cert["municipi"].apply(normalitzar_text)
+cert["comarca"]   = cert["comarca"].apply(normalitzar_text)
 renda["municipi"] = renda["municipi"].apply(normalitzar_text)
 
 # Convertir a numèric les columnes d'interès
@@ -56,7 +59,7 @@ renda = renda[(renda["indicador"] == "per habitant (€)") & (renda["any"] == 20
 renda_recent = renda[["municipi", "valor"]].rename(columns={"valor": "renda"})
 
 # 3. Crear mètriques per municipi
-agr = cert.groupby("municipi").agg(
+agr = cert.groupby(["municipi", "comarca"]).agg(
     certs=("municipi", "count"),
     energia=("Energia primària no renovable", "mean"),
     emissions=("Emissions de CO2", "mean"),
@@ -66,6 +69,9 @@ agr = cert.groupby("municipi").agg(
     pct_fg=("Qualificació de consum d'energia primaria no renovable", 
              lambda x: (x.isin(["F","G"]).mean()) * 100)
 ).reset_index()
+
+# Filtrar la comarca més representada per cada municipi
+agr = agr.sort_values("certs", ascending=False).drop_duplicates("municipi")
 
 # 5. Afegir renda
 final = agr.merge(renda_recent, on="municipi", how="inner")
