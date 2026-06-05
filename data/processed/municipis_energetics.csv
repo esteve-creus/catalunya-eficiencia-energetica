@@ -1,0 +1,471 @@
+municipi,comarca,certs,energia,emissions,any_mitja,pct_ab,pct_fg,renda
+Barcelona,Barcelonès,262171,192.98,38.16,1957.0,1.4,28.8,25898
+Hospitalet de Llobregat,Barcelonès,32876,204.46,40.82,1968.0,0.9,35.0,17591
+Terrassa,Vallès Occidental,29587,241.82,48.44,1985.0,2.1,25.8,19895
+Sabadell,Vallès Occidental,27778,192.82,38.69,1978.0,2.7,30.4,20303
+Badalona,Barcelonès,26125,192.94,39.05,1973.0,1.5,29.8,19114
+Tarragona,Tarragonès,20356,154.3,29.68,1975.0,2.1,26.7,18825
+Lleida,Segrià,17512,255.6,51.86,1981.0,3.0,26.9,19018
+Girona,Gironès,16559,240.31,48.04,1982.0,2.0,26.3,20608
+Mataró,Maresme,15618,193.14,38.14,1980.0,2.2,31.0,18465
+Reus,Baix Camp,14899,196.38,38.54,1977.0,2.2,26.0,18065
+Santa Coloma de Gramenet,Barcelonès,14074,206.58,41.46,1971.0,0.8,36.0,16649
+Sant Cugat del Vallès,Vallès Occidental,12437,169.06,34.05,1989.0,7.5,19.4,30434
+Manresa,Bages,10771,189.61,37.39,1972.0,2.1,30.2,19221
+Salou,Tarragonès,10252,203.22,37.8,1984.0,1.6,41.1,16118
+Rubí,Vallès Occidental,10203,193.84,38.93,1986.0,3.4,29.3,18483
+Cornellà de Llobregat,Baix Llobregat,10084,199.98,39.77,1972.0,1.1,33.0,19180
+Vilanova i la Geltrú,Garraf,9628,192.81,38.08,1984.0,4.6,31.2,20613
+Sant Boi de Llobregat,Baix Llobregat,9514,201.74,39.97,1976.0,2.0,33.6,19548
+Castelldefels,Baix Llobregat,8981,202.41,39.58,1981.0,3.1,32.6,22337
+Cambrils,Baix Camp,8871,197.09,37.24,1989.0,2.9,35.5,18150
+Vendrell,Baix Penedès,8790,205.55,40.04,1990.0,2.9,34.6,17683
+Calafell,Baix Penedès,8412,197.38,37.95,1988.0,2.5,34.4,16248
+Granollers,Vallès Oriental,8370,190.66,38.02,1981.0,3.2,28.9,20642
+Lloret de Mar,Selva,7649,210.69,40.74,1988.0,1.7,36.9,14009
+Viladecans,Baix Llobregat,7389,185.21,37.06,1983.0,2.3,24.4,20017
+Roses,Alt Empordà,6953,233.17,43.51,1986.0,1.1,51.5,14578
+Cerdanyola del Vallès,Vallès Occidental,6937,196.22,39.67,1981.0,4.2,30.9,22561
+Figueres,Alt Empordà,6733,202.85,40.79,1984.0,1.9,35.7,15572
+Prat de Llobregat,Baix Llobregat,6526,188.63,37.49,1977.0,1.8,24.4,20168
+Mollet del Vallès,Vallès Oriental,6312,195.77,38.98,1981.0,1.9,29.1,19106
+Blanes,Selva,6301,206.39,40.76,1981.0,1.6,36.5,16740
+Sitges,Garraf,6006,195.2,38.27,1982.0,4.4,32.2,24823
+Vic,Osona,5641,221.74,45.34,1981.0,3.7,23.8,19508
+Esplugues de Llobregat,Baix Llobregat,5422,187.53,37.71,1975.0,2.6,27.3,22939
+Igualada,Anoia,5380,242.61,48.91,1980.0,4.6,28.4,19738
+Gavà,Baix Llobregat,5374,191.33,37.99,1980.0,2.4,27.2,21866
+Vilafranca del Penedès,Alt Penedès,5370,182.07,36.14,1979.0,3.5,26.4,19777
+Mont-roig del Camp,Baix Camp,4835,228.68,43.32,1995.0,2.0,42.8,15682
+Pineda de Mar,Maresme,4774,206.07,41.19,1983.0,1.7,36.0,16901
+Vila-seca,Tarragonès,4749,190.05,35.65,1987.0,1.8,33.2,16239
+Castelló d'Empúries,Alt Empordà,4715,229.71,43.24,1985.0,1.7,46.6,14136
+Sant Feliu de Llobregat,Baix Llobregat,4606,184.01,36.65,1979.0,2.3,22.3,22381
+Ripollet,Vallès Occidental,4591,195.83,39.36,1981.0,2.0,31.5,18087
+Palafrugell,Baix Empordà,4506,216.99,43.22,1984.0,3.7,41.8,16599
+Montcada i Reixac,Vallès Occidental,4204,200.32,39.97,1981.0,2.1,34.0,18591
+Torredembarra,Tarragonès,4169,192.74,36.33,1989.0,2.1,31.8,16648
+Sant Pere de Ribes,Garraf,4098,199.26,39.94,1988.0,5.5,31.6,19622
+Olot,Garrotxa,4092,257.46,52.98,1978.0,3.9,29.2,19063
+Sant Feliu de Guíxols,Baix Empordà,4074,209.36,41.15,1982.0,2.2,38.1,16547
+Cunit,Baix Penedès,3989,201.69,39.55,1988.0,4.1,34.9,15963
+Sant Adrià de Besòs,Barcelonès,3966,188.81,37.61,1977.0,1.4,27.2,17283
+Barberà del Vallès,Vallès Occidental,3929,185.65,37.38,1988.0,5.8,26.8,20086
+Salt,Gironès,3829,205.18,41.53,1984.0,0.8,37.2,13633
+Premià de Mar,Maresme,3768,196.78,39.46,1975.0,2.2,29.8,20343
+Sant Joan Despí,Baix Llobregat,3721,183.51,36.37,1982.0,2.4,24.3,23030
+Tortosa,Baix Ebre,3600,168.86,31.75,1974.0,3.3,33.8,17275
+Palamós,Baix Empordà,3483,212.12,41.03,1983.0,2.3,41.5,17928
+Cubelles,Garraf,3244,203.8,40.63,1992.0,2.3,35.2,18982
+Escala,Alt Empordà,3223,250.36,48.04,1984.0,2.9,53.3,16283
+Masnou,Maresme,3214,188.0,37.78,1975.0,5.9,29.1,23920
+Martorell,Baix Llobregat,3125,184.71,36.86,1983.0,2.5,24.9,18897
+Molins de Rei,Baix Llobregat,3087,188.62,37.74,1978.0,5.2,28.3,23013
+Santa Perpètua de Mogoda,Vallès Occidental,2998,222.5,40.27,1984.0,3.3,29.9,19884
+Sant Andreu de la Barca,Baix Llobregat,2932,200.21,40.2,1987.0,2.1,32.7,19253
+Castellar del Vallès,Vallès Occidental,2919,208.17,42.88,1986.0,7.8,26.4,21534
+Calella,Maresme,2910,200.3,39.41,1980.0,1.9,32.6,17163
+Olesa de Montserrat,Baix Llobregat,2804,209.49,41.76,1981.0,3.3,29.7,19382
+Torroella de Montgrí,Baix Empordà,2799,235.66,45.36,1981.0,2.3,48.0,16376
+Vilassar de Mar,Maresme,2779,191.89,38.77,1976.0,3.1,26.1,25085
+Malgrat de Mar,Maresme,2673,197.63,39.55,1987.0,2.8,30.8,17709
+Calonge i Sant Antoni,Baix Empordà,2669,213.91,42.58,1986.0,3.8,38.5,17110
+Valls,Alt Camp,2665,202.5,39.77,1980.0,3.1,26.8,18309
+Sant Vicenç dels Horts,Baix Llobregat,2639,196.32,39.79,1980.0,4.2,28.5,18705
+Amposta,Montsià,2619,194.18,36.23,1990.0,2.4,35.9,15028
+Esparreguera,Baix Llobregat,2610,205.13,41.26,1984.0,3.5,30.9,19968
+Sant Quirze del Vallès,Vallès Occidental,2548,171.64,34.67,1997.0,10.0,17.4,26995
+Arenys de Mar,Maresme,2468,194.79,38.91,1978.0,2.8,30.0,20604
+Tordera,Maresme,2336,212.36,43.88,1993.0,3.3,35.5,16526
+Banyoles,Pla de l'Estany,2225,214.35,43.97,1984.0,5.2,34.2,20697
+Tàrrega,Urgell,2214,234.87,48.42,1987.0,6.2,19.8,17218
+Cardedeu,Vallès Oriental,2214,183.28,36.68,1988.0,5.8,23.4,21212
+Garriga,Vallès Oriental,2188,202.59,40.93,1985.0,4.7,27.3,22903
+Parets del Vallès,Vallès Oriental,2152,198.6,40.22,1986.0,4.4,31.0,20836
+Franqueses del Vallès,Vallès Oriental,2134,193.86,39.11,1989.0,3.8,28.3,18971
+Montornès del Vallès,Vallès Oriental,2112,190.78,38.94,1985.0,5.2,30.8,18719
+Sant Celoni,Vallès Oriental,2101,198.14,40.1,1984.0,3.7,31.5,19112
+Corbera de Llobregat,Baix Llobregat,2089,211.51,44.69,1986.0,9.4,31.2,21929
+Caldes de Montbui,Vallès Oriental,2046,197.87,40.15,1980.0,6.5,30.4,20817
+Vallirana,Baix Llobregat,2039,209.85,44.2,1989.0,7.0,30.1,20730
+Piera,Anoia,2001,245.49,51.12,1985.0,4.3,34.5,17371
+Canet de Mar,Maresme,1939,203.34,40.64,1982.0,3.4,36.4,19325
+Llançà,Alt Empordà,1918,233.56,45.63,1985.0,2.5,53.3,17869
+Berga,Berguedà,1906,239.09,49.25,1976.0,2.0,37.6,19322
+Lliçà d'Amunt,Vallès Oriental,1882,216.62,46.96,1990.0,10.8,33.4,20574
+Sant Just Desvern,Baix Llobregat,1874,186.69,37.33,1980.0,7.9,25.2,33256
+Canovelles,Vallès Oriental,1849,204.34,41.38,1980.0,2.8,34.3,16970
+Tossa de Mar,Selva,1842,230.48,44.14,1980.0,1.7,45.6,16052
+Manlleu,Osona,1822,230.5,49.12,1979.0,3.3,30.2,17297
+Sant Andreu de Llavaneres,Maresme,1793,186.21,37.96,1986.0,6.0,27.3,23819
+Mollerussa,Pla d'Urgell,1753,233.99,47.68,1989.0,3.4,19.3,17502
+Palau-solità i Plegamans,Vallès Occidental,1721,199.75,41.2,1988.0,9.6,27.9,21251
+Alcanar,Montsià,1660,204.45,37.97,1990.0,2.0,41.5,15476
+Abrera,Baix Llobregat,1635,192.77,39.11,1991.0,7.8,23.3,20357
+Santa Coloma de Farners,Selva,1544,206.24,42.6,1987.0,5.3,30.0,17675
+Ametlla de Mar,Baix Ebre,1487,221.42,42.51,1990.0,4.6,36.9,16145
+Balaguer,Noguera,1438,265.95,54.64,1981.0,2.7,28.8,15818
+Roca del Vallès,Vallès Oriental,1428,183.74,37.07,1992.0,14.6,23.9,23399
+Castellbisbal,Vallès Occidental,1421,196.02,40.33,1989.0,6.8,27.5,20352
+Torelló,Osona,1369,215.19,45.73,1979.0,7.3,29.4,20276
+Badia del Vallès,Vallès Occidental,1366,197.49,40.44,1973.0,0.2,33.1,15913
+Sant Sadurní d'Anoia,Alt Penedès,1360,186.0,36.62,1985.0,5.6,27.4,21411
+Llagosta,Vallès Oriental,1356,196.02,39.28,1978.0,0.7,30.4,18051
+Vandellòs i l'Hospitalet de l'Infant,Baix Camp,1356,213.03,39.02,1988.0,2.2,39.5,16928
+Deltebre,Baix Ebre,1349,196.65,36.53,1995.0,2.8,37.0,15794
+Ripoll,Ripollès,1341,276.19,58.14,1963.0,2.8,33.7,19701
+Puigcerdà,Cerdanya,1340,252.02,51.55,1983.0,5.6,24.3,15759
+Altafulla,Tarragonès,1336,195.16,37.06,1991.0,5.8,27.5,20742
+Argentona,Maresme,1323,186.31,38.32,1982.0,6.1,22.9,22084
+Alella,Maresme,1273,190.63,38.99,1979.0,9.3,23.8,35425
+Begur,Baix Empordà,1256,237.42,47.89,1983.0,8.9,37.7,22271
+Montgat,Maresme,1251,175.21,35.1,1983.0,4.8,22.4,22061
+Bisbal d'Empordà,Baix Empordà,1240,195.3,39.65,1983.0,2.9,30.7,16638
+Pallejà,Baix Llobregat,1240,193.19,39.4,1986.0,5.7,26.2,22448
+Cervelló,Baix Llobregat,1232,199.15,41.63,1990.0,9.1,27.4,22571
+Masquefa,Anoia,1222,206.14,42.18,1987.0,6.7,27.5,18196
+Vielha e Mijaran,Val d'Aran,1214,315.4,63.4,1988.0,2.3,32.9,18632
+Premià de Dalt,Maresme,1198,183.24,37.03,1984.0,8.7,21.0,26364
+Ametlla del Vallès,Vallès Oriental,1190,197.31,42.61,1992.0,15.7,23.4,26831
+Sant Fruitós de Bages,Bages,1190,180.79,37.31,1988.0,8.7,24.4,23439
+Sant Vicenç de Castellet,Bages,1176,194.68,40.32,1984.0,2.6,32.7,17370
+Llinars del Vallès,Vallès Oriental,1156,190.44,39.17,1991.0,8.1,27.2,21246
+Naut Aran,Val d'Aran,1152,303.28,62.18,1991.0,1.3,24.0,19039
+Vilanova del Camí,Anoia,1140,223.98,45.42,1988.0,1.9,38.2,16848
+Ampolla,Baix Ebre,1133,208.63,38.16,1997.0,3.2,42.4,16396
+Vilassar de Dalt,Maresme,1131,189.42,38.28,1975.0,7.2,26.7,24551
+Matadepera,Vallès Occidental,1129,198.7,41.6,1991.0,17.1,22.6,34766
+Maçanet de la Selva,Selva,1103,251.65,53.68,1990.0,5.1,44.9,16138
+Sentmenat,Vallès Occidental,1100,187.54,39.17,1988.0,6.4,24.0,19860
+Sant Esteve Sesrovires,Baix Llobregat,1096,205.09,42.04,1993.0,10.2,29.4,22581
+Sant Vicenç de Montalt,Maresme,1092,189.7,38.91,1985.0,8.9,26.8,26684
+Santa Maria de Palautordera,Vallès Oriental,1074,194.52,40.77,1987.0,7.5,28.1,20837
+Montmeló,Vallès Oriental,1071,188.94,38.01,1981.0,3.9,26.3,19786
+Arenys de Munt,Maresme,1053,196.09,39.79,1986.0,3.5,30.8,21150
+Alcarràs,Segrià,1051,225.16,46.58,2000.0,4.5,15.0,15668
+Cassà de la Selva,Gironès,1045,201.16,40.81,1986.0,6.3,27.7,18666
+Sant Pol de Mar,Maresme,1026,204.41,40.69,1980.0,3.9,33.4,22907
+Viladecavalls,Vallès Occidental,1025,183.17,37.56,1994.0,14.5,20.0,21767
+Caldes de Malavella,Selva,1023,203.9,43.63,1995.0,15.4,32.5,19671
+Cervera,Segarra,1018,246.32,50.89,1974.0,7.7,22.2,17338
+Sant Fost de Campsentelles,Vallès Oriental,1018,198.03,42.55,1984.0,11.7,27.9,21394
+Creixell,Tarragonès,1015,193.62,37.59,1992.0,3.3,26.6,16626
+Santa Cristina d'Aro,Baix Empordà,1008,209.19,43.88,1989.0,10.5,33.1,19766
+Llagostera,Gironès,1007,207.03,42.14,1981.0,6.1,30.0,17065
+Alp,Cerdanya,998,292.19,57.32,1991.0,2.6,38.0,19004
+Palafolls,Maresme,997,208.67,42.49,1996.0,3.7,34.4,17675
+Cabrils,Maresme,991,190.46,39.4,1985.0,10.3,24.2,31280
+Santa Eulàlia de Ronçana,Vallès Oriental,982,222.29,47.93,1985.0,9.3,33.1,20067
+Vidreres,Selva,974,219.7,45.28,1993.0,9.4,35.0,17516
+Tiana,Maresme,969,173.64,35.52,1985.0,8.6,20.7,28136
+Constantí,Tarragonès,963,182.4,35.5,1985.0,2.4,23.2,14775
+Seu d'Urgell,Alt Urgell,954,320.93,66.91,1983.0,3.0,28.6,16434
+Vacarisses,Vallès Occidental,953,249.46,53.95,1987.0,10.6,37.9,18898
+Teià,Maresme,949,184.27,37.64,1985.0,11.7,23.6,28108
+Polinyà,Vallès Occidental,944,192.7,38.9,1993.0,2.9,27.3,19038
+Begues,Baix Llobregat,936,212.93,44.97,1993.0,12.6,30.9,27588
+Santa Margarida de Montbui,Anoia,933,233.17,47.95,1984.0,1.9,37.0,14390
+Sant Joan de Vilatorrada,Bages,927,202.87,41.38,1986.0,2.4,31.5,19642
+Sant Antoni de Vilamajor,Vallès Oriental,911,199.04,41.74,1985.0,10.0,29.1,22272
+Tremp,Pallars Jussà,902,275.86,55.74,1982.0,3.4,33.9,18588
+Santa Coloma de Cervelló,Baix Llobregat,897,185.92,38.07,1987.0,6.2,22.6,22640
+Pals,Baix Empordà,891,231.53,44.77,1984.0,5.7,43.2,20283
+Santpedor,Bages,874,173.71,35.5,1986.0,8.5,17.4,21557
+Centelles,Osona,869,230.2,49.32,1976.0,4.7,33.0,20239
+Sils,Selva,846,194.07,41.19,1998.0,14.2,27.5,18150
+Tona,Osona,838,218.11,47.49,1985.0,7.2,28.0,21326
+Santa Margarida i els Monjos,Alt Penedès,838,184.11,36.77,1990.0,3.1,26.1,19337
+Gelida,Alt Penedès,823,200.77,39.23,1984.0,3.6,29.6,19286
+Sant Feliu de Codines,Vallès Oriental,814,221.81,44.47,1978.0,4.5,39.1,19224
+Solsona,Solsonès,810,256.66,54.43,1976.0,6.2,21.4,18683
+Navàs,Bages,795,221.08,46.24,1983.0,3.6,31.6,20513
+Sant Hilari Sacalm,Selva,790,264.13,57.91,1981.0,4.3,35.6,17532
+Dosrius,Maresme,785,214.11,46.26,1988.0,9.9,30.2,20114
+Lliçà de Vall,Vallès Oriental,778,196.68,41.61,1989.0,12.3,26.0,22027
+Moià,Moianès,774,237.78,49.55,1975.0,6.3,36.4,19034
+Arboç,Baix Penedès,774,225.37,43.73,1986.0,1.6,36.8,15732
+Canyelles,Garraf,767,208.79,44.53,1994.0,15.1,32.6,18527
+Alpicat,Segrià,754,224.84,47.18,1984.0,14.1,14.1,22922
+Arbúcies,Selva,730,223.53,46.89,1979.0,6.0,32.1,16927
+Montblanc,Conca de Barberà,716,197.02,40.12,1973.0,8.4,27.8,21055
+Olivella,Garraf,703,204.93,44.05,1997.0,11.7,27.6,18057
+Móra d'Ebre,Ribera d'Ebre,699,171.57,32.84,1985.0,3.4,24.2,17138
+Anglès,Selva,678,215.05,44.0,1973.0,2.4,37.3,17627
+Catllar,Tarragonès,677,181.15,36.8,1990.0,14.6,22.9,20658
+Canonja,Tarragonès,665,184.66,35.18,1989.0,5.9,27.8,16960
+Sallent,Bages,664,214.07,44.27,1972.0,4.7,32.7,20166
+Capellades,Anoia,659,216.31,43.72,1976.0,3.2,35.5,19112
+Santa Susanna,Maresme,656,204.01,41.34,1989.0,5.9,27.9,18434
+Artés,Bages,655,197.52,40.37,1976.0,4.0,23.8,19704
+Cadaqués,Alt Empordà,653,193.27,36.59,1977.0,2.5,29.6,15318
+Sant Cebrià de Vallalta,Maresme,644,228.24,46.57,1991.0,6.1,37.0,19984
+Celrà,Gironès,640,173.51,35.41,1980.0,6.4,19.8,18244
+Pobla de Mafumet,Tarragonès,637,169.96,32.45,1997.0,1.7,17.1,14562
+Puig-reig,Berguedà,633,243.45,49.8,1961.0,1.3,43.4,19212
+Roda de Ter,Osona,629,222.27,48.22,1984.0,5.7,31.0,19175
+Riudoms,Baix Camp,623,173.86,34.55,1979.0,10.0,17.5,16710
+Vilanova del Vallès,Vallès Oriental,620,188.58,39.39,1994.0,9.4,21.0,25180
+Torrelles de Llobregat,Baix Llobregat,614,214.92,45.06,1988.0,6.2,35.7,22037
+Borges Blanques,Garrigues,607,248.31,51.71,1983.0,10.2,25.4,17634
+Bisbal del Penedès,Baix Penedès,605,231.53,47.71,1987.0,5.8,32.4,15345
+Almacelles,Segrià,602,287.64,60.1,1982.0,2.2,38.9,15999
+Navarcles,Bages,581,204.14,41.85,1981.0,6.4,25.5,20982
+Cabrera de Mar,Maresme,580,182.03,37.04,1978.0,7.2,24.0,27805
+Roquetes,Baix Ebre,579,191.95,37.06,1978.0,6.6,30.7,16539
+Collbató,Baix Llobregat,578,211.26,45.12,1988.0,15.1,26.0,24461
+Riells i Viabrea,Selva,572,258.19,56.35,1990.0,5.8,43.0,18289
+Sant Pere de Vilamajor,Vallès Oriental,570,236.24,52.01,1990.0,11.9,34.6,20626
+Pobla de Montornès,Tarragonès,564,224.63,44.41,1992.0,4.6,31.2,16789
+Taradell,Osona,561,211.93,45.57,1984.0,14.6,28.2,22654
+Caldes d'Estrac,Maresme,551,207.23,41.84,1972.0,3.6,37.7,22797
+Súria,Bages,550,208.03,43.12,1957.0,4.2,31.1,20368
+Morell,Tarragonès,547,171.23,32.97,1988.0,5.7,16.8,17849
+Torrefarrera,Segrià,547,221.35,46.37,2000.0,12.6,15.4,19482
+Hostalric,Selva,544,221.49,45.14,1986.0,3.3,41.7,18368
+Martorelles,Vallès Oriental,541,201.77,41.41,1976.0,4.4,31.4,21370
+Camprodon,Ripollès,536,244.43,51.62,1974.0,3.9,24.3,19397
+Bellver de Cerdanya,Cerdanya,521,279.52,55.08,1989.0,7.3,22.8,19687
+Agramunt,Urgell,521,240.63,50.77,1986.0,6.1,24.2,17900
+Pobla de Segur,Pallars Jussà,516,260.67,51.46,1983.0,5.0,28.3,18515
+Montbrió del Camp,Baix Camp,513,180.32,33.27,1995.0,8.4,22.0,17800
+Sant Jaume d'Enveja,Montsià,506,182.36,33.27,1997.0,1.0,31.8,14752
+Sarrià de Ter,Gironès,501,196.31,40.31,1984.0,5.4,30.9,19493
+Vall de Boí,Alta Ribagorça,500,271.71,50.77,1993.0,1.4,25.8,17078
+Llívia,Cerdanya,482,279.94,57.05,1983.0,2.7,34.9,16920
+Castellbell i el Vilar,Bages,482,227.01,46.73,1973.0,5.4,41.7,17624
+Papiol,Baix Llobregat,470,206.97,41.42,1979.0,6.0,34.0,20839
+Banyeres del Penedès,Baix Penedès,464,200.76,41.01,1988.0,8.0,23.9,18097
+Ulldecona,Montsià,459,191.17,36.89,1990.0,1.7,25.9,14623
+Sant Climent de Llobregat,Baix Llobregat,449,185.58,38.63,1982.0,6.2,22.9,20639
+Seva,Osona,449,227.34,52.2,1985.0,15.6,26.1,22126
+Bellpuig,Urgell,447,251.77,52.33,1987.0,3.4,21.3,16444
+Guissona,Segarra,447,219.68,46.32,1984.0,15.0,15.4,16895
+Monistrol de Montserrat,Bages,445,213.66,41.33,1976.0,5.2,43.4,18302
+Alcover,Alt Camp,444,190.7,38.27,1985.0,9.7,24.1,18232
+Bescanó,Gironès,443,208.48,43.15,1978.0,9.3,23.5,19794
+Palma de Cervelló,Baix Llobregat,434,178.79,35.77,1989.0,3.5,21.2,22646
+Port de la Selva,Alt Empordà,426,213.77,41.93,1982.0,6.6,41.3,19759
+Selva del Camp,Baix Camp,426,163.04,32.3,1984.0,8.9,14.8,18364
+Gironella,Berguedà,423,233.77,47.94,1961.0,8.0,37.6,19419
+Quart,Gironès,419,150.92,31.31,2001.0,24.6,15.8,20158
+Alcoletge,Segrià,417,233.19,48.94,1996.0,3.6,14.4,15934
+Torre de Claramunt,Anoia,414,285.43,62.05,1985.0,5.3,46.9,17670
+Pont de Vilomara i Rocafort,Bages,408,209.17,43.45,1979.0,8.1,34.8,17361
+Olèrdola,Alt Penedès,406,206.29,44.1,1984.0,8.4,24.6,20533
+Castellet i la Gornal,Alt Penedès,402,199.81,41.33,1981.0,13.4,27.4,17268
+Sort,Pallars Sobirà,402,278.56,54.88,1986.0,4.0,23.1,19717
+Sant Pere Pescador,Alt Empordà,399,217.2,43.41,1988.0,5.8,42.6,16511
+Vallgorguina,Vallès Oriental,395,233.51,51.22,1989.0,9.4,36.5,19574
+Jonquera,Alt Empordà,395,224.25,45.11,1981.0,0.8,42.0,15005
+Vallromanes,Vallès Oriental,394,178.52,38.46,1992.0,17.5,21.1,27166
+Torrelles de Foix,Alt Penedès,388,239.1,49.34,1974.0,4.1,39.2,14613
+Calaf,Anoia,387,210.86,44.45,1979.0,5.4,29.7,17930
+Santa Oliva,Baix Penedès,387,206.71,42.62,1988.0,7.5,29.2,15138
+Aldea,Baix Ebre,385,199.34,36.95,1990.0,1.3,29.9,14835
+Sant Salvador de Guardiola,Bages,384,242.04,52.26,1988.0,8.9,38.8,19399
+Mediona,Alt Penedès,380,279.38,59.02,1971.0,4.7,47.1,16469
+Pont de Suert,Alta Ribagorça,377,242.1,48.93,1986.0,3.7,13.8,16971
+Perelló,Baix Ebre,377,213.16,41.68,1987.0,3.2,30.8,14198
+Sant Julià de Ramis,Gironès,374,188.85,39.91,1994.0,13.9,26.2,20570
+Vinyols i els Arcs,Baix Camp,374,177.97,33.48,2001.0,11.5,24.9,18433
+Vilafant,Alt Empordà,372,194.15,40.99,1988.0,11.0,25.0,18365
+Sénia,Montsià,367,232.11,45.76,1983.0,3.8,44.1,15074
+Sant Martí Sarroca,Alt Penedès,367,209.36,42.1,1973.0,6.3,29.4,18287
+Breda,Selva,366,263.29,54.78,1981.0,7.7,45.4,18505
+Cànoves i Samalús,Vallès Oriental,363,243.7,54.44,1986.0,11.0,37.7,20491
+Espluga de Francolí,Conca de Barberà,363,202.63,41.73,1959.0,4.7,25.1,18130
+Castellterçol,Moianès,361,216.77,46.35,1971.0,8.3,35.5,19100
+Sant Gregori,Gironès,360,165.41,34.5,1990.0,27.5,19.7,24295
+Santa Bàrbara,Montsià,359,207.54,39.75,1979.0,2.2,32.0,15504
+Rosselló,Segrià,355,245.12,51.5,1998.0,5.1,19.2,17280
+Bellvei,Baix Penedès,353,216.31,44.15,1983.0,5.7,38.2,15226
+Subirats,Alt Penedès,353,201.17,42.49,1961.0,14.7,29.2,20000
+Sant Joan de les Abadesses,Ripollès,353,266.43,56.4,1971.0,3.4,34.6,20039
+Albinyana,Baix Penedès,352,229.06,47.58,1983.0,6.8,31.8,15363
+Sant Llorenç d'Hortons,Alt Penedès,344,186.13,38.72,1987.0,10.8,23.3,20361
+Sant Hipòlit de Voltregà,Osona,341,208.0,45.2,1970.0,8.8,25.2,20388
+Riudarenes,Selva,340,235.6,48.61,1982.0,7.6,40.6,19628
+Móra la Nova,Ribera d'Ebre,338,178.75,35.08,1981.0,6.8,26.0,15853
+Olesa de Bonesvalls,Alt Penedès,338,235.05,50.36,1990.0,7.1,32.8,20068
+Balenyà,Osona,336,234.02,49.26,1988.0,6.2,36.9,18132
+Òdena,Anoia,335,213.19,43.09,1993.0,8.4,28.1,18113
+Bagà,Berguedà,335,243.04,46.5,1980.0,3.6,28.1,20633
+Castellvell del Camp,Baix Camp,335,159.98,33.21,2000.0,18.2,12.8,23736
+Balsareny,Bages,330,226.29,48.27,1979.0,7.0,33.0,19376
+Artesa de Segre,Noguera,328,243.21,51.48,1982.0,5.2,22.9,16057
+Ribes de Freser,Ripollès,326,272.37,57.18,1981.0,1.5,31.9,20938
+Porqueres,Pla de l'Estany,326,197.84,42.52,1991.0,17.2,25.2,20164
+Campdevànol,Ripollès,326,284.2,62.16,1968.0,4.0,24.8,21217
+Vilallonga del Camp,Tarragonès,326,181.15,34.3,1993.0,5.2,20.2,18302
+Sant Jaume dels Domenys,Baix Penedès,315,202.87,42.34,1984.0,6.7,20.0,17748
+Vilablareix,Gironès,314,132.74,27.24,2003.0,35.0,12.1,24889
+Flix,Ribera d'Ebre,312,224.74,43.58,1960.0,4.8,42.3,19377
+Prats de Lluçanès,Osona,310,207.02,43.08,1960.0,7.4,29.4,19699
+Sant Julià de Vilatorta,Osona,309,205.23,45.1,1973.0,16.8,26.5,25210
+Aiguafreda,Vallès Oriental,307,243.01,53.03,1970.0,3.9,37.1,22715
+Sant Quintí de Mediona,Alt Penedès,300,213.46,43.65,1970.0,5.3,34.3,16189
+Camarles,Baix Ebre,296,195.8,36.61,1987.0,5.1,38.9,15395
+Sant Joan les Fonts,Garrotxa,290,261.67,55.86,1979.0,3.4,37.2,22019
+Sant Esteve de Palautordera,Vallès Oriental,283,166.27,33.61,1990.0,14.5,18.4,21954
+Castellgalí,Bages,283,217.68,44.0,1995.0,6.0,31.1,18634
+Vilobí d'Onyar,Selva,282,214.32,43.74,1982.0,11.0,28.7,21457
+Sant Llorenç Savall,Vallès Occidental,281,235.4,50.44,1980.0,7.1,37.4,19012
+Fornells de la Selva,Gironès,281,164.51,34.09,1997.0,21.4,15.3,27805
+Linyola,Pla d'Urgell,280,244.9,52.33,1991.0,8.2,17.5,16387
+Bruc,Anoia,280,216.42,45.91,1988.0,12.9,30.7,20779
+Cardona,Bages,279,207.43,43.54,1951.0,4.7,24.7,21221
+Montmell,Baix Penedès,263,245.6,51.66,1987.0,5.3,36.1,14743
+Llorenç del Penedès,Baix Penedès,262,194.96,38.86,1985.0,11.5,23.7,18981
+Santa Coloma de Queralt,Conca de Barberà,260,222.51,47.25,1955.0,9.2,24.6,19061
+Vall d'en Bas,Garrotxa,258,246.25,54.73,1971.0,12.0,31.8,23050
+Granada,Alt Penedès,257,179.29,35.87,1986.0,11.3,24.5,20485
+Ullastrell,Vallès Occidental,256,202.19,42.3,1990.0,9.0,21.5,20982
+Juneda,Garrigues,256,205.15,43.87,1958.0,16.4,13.7,17304
+Perafort,Tarragonès,254,183.47,35.21,1983.0,8.3,20.9,18165
+Peralada,Alt Empordà,252,189.55,38.15,1987.0,11.5,27.8,22142
+Secuita,Tarragonès,247,183.18,35.42,1989.0,4.9,15.0,19519
+Almenar,Segrià,242,276.56,58.41,1981.0,5.0,30.2,16740
+Masies de Voltregà,Osona,240,216.46,48.42,1977.0,16.2,25.0,20698
+Navata,Alt Empordà,239,218.19,44.38,1986.0,7.5,34.7,21042
+Palau-saverdera,Alt Empordà,235,191.51,38.4,1990.0,17.0,31.1,16898
+Riera de Gaià,Tarragonès,231,169.4,33.82,1977.0,8.7,15.6,17577
+Castellví de Rosanes,Baix Llobregat,230,187.81,40.01,1987.0,13.5,24.8,21175
+Borges del Camp,Baix Camp,230,215.64,42.21,1973.0,4.3,34.3,17301
+Alguaire,Segrià,230,279.7,59.39,1982.0,8.7,28.3,17180
+Sant Iscle de Vallalta,Maresme,227,213.56,42.88,1984.0,11.5,41.4,19345
+Pla de Santa Maria,Alt Camp,225,185.29,37.44,1978.0,6.2,20.0,17373
+Amer,Selva,225,238.17,49.01,1959.0,8.0,44.4,21581
+Callús,Bages,223,203.52,40.9,1982.0,4.0,28.7,19646
+Sant Pere de Riudebitlles,Alt Penedès,222,210.23,43.19,1965.0,5.9,31.5,20481
+Albatàrrec,Segrià,221,226.44,46.67,1995.0,6.8,17.2,15646
+Cercs,Berguedà,214,277.64,56.9,1955.0,1.4,58.4,19388
+Avinyonet del Penedès,Alt Penedès,212,190.93,38.41,1975.0,8.5,18.4,19656
+Besalú,Garrotxa,212,240.99,49.42,1978.0,8.5,35.8,19287
+Cabrera d'Anoia,Anoia,212,259.96,55.19,1991.0,5.7,42.9,16967
+Riudellots de la Selva,Selva,211,188.68,37.83,1990.0,15.2,25.6,20661
+Pobla de Claramunt,Anoia,211,241.48,49.56,1978.0,6.6,39.3,19773
+Calldetenes,Osona,209,191.63,41.1,1987.0,13.4,19.6,20254
+Ponts,Noguera,207,248.34,51.27,1974.0,6.8,24.2,17480
+Sant Vicenç de Torelló,Osona,205,223.67,49.93,1957.0,16.6,26.3,22334
+Fogars de la Selva,Selva,205,235.92,50.32,1982.0,10.7,38.5,17899
+Pla del Penedès,Alt Penedès,205,170.21,32.49,1979.0,8.3,20.5,18292
+Gurb,Osona,204,210.86,46.3,1972.0,17.2,23.0,26145
+Palau d'Anglesola,Pla d'Urgell,203,236.66,51.32,1989.0,14.3,16.7,19110
+Gualba,Vallès Oriental,202,199.55,43.41,1985.0,9.4,32.7,19637
+Almoster,Baix Camp,201,183.38,36.63,1996.0,10.9,15.9,26288
+Folgueroles,Osona,201,200.42,44.16,1982.0,11.9,19.4,22974
+Santa Eugènia de Berga,Osona,197,204.83,45.7,1986.0,18.3,22.8,20730
+Alfarràs,Segrià,196,301.2,63.27,1978.0,1.5,38.3,17298
+Avinyó,Bages,194,221.93,46.75,1974.0,7.2,33.5,20088
+Cornellà del Terri,Pla de l'Estany,193,181.72,37.32,1989.0,12.4,21.2,19756
+Portbou,Alt Empordà,191,223.51,44.98,1961.0,1.6,45.0,17024
+Castellnou de Bages,Bages,190,216.41,49.4,1991.0,23.2,32.1,21155
+Falset,Priorat,190,200.71,39.23,1975.0,4.7,23.7,17557
+Sant Quirze de Besora,Osona,189,231.79,49.36,1959.0,5.8,33.3,19513
+Viladrau,Osona,187,236.04,48.96,1978.0,11.2,28.9,21251
+Torregrossa,Pla d'Urgell,185,260.53,57.4,1962.0,11.4,25.4,16677
+Bell-lloc d'Urgell,Pla d'Urgell,184,237.14,49.82,1980.0,13.6,17.9,18670
+Sant Martí de Centelles,Osona,182,230.24,49.7,1987.0,7.7,33.5,17981
+Sant Martí de Tous,Anoia,181,209.49,44.42,1962.0,17.7,24.9,20509
+Avià,Berguedà,180,219.39,45.48,1968.0,15.0,32.2,20276
+Alforja,Baix Camp,180,201.65,41.91,1979.0,7.2,21.7,16404
+Casserres,Berguedà,178,235.46,50.37,1950.0,13.5,34.3,19041
+Sant Pere de Torelló,Osona,177,174.26,37.08,1983.0,32.2,21.5,19912
+Forallac,Baix Empordà,175,187.69,38.71,1967.0,11.4,21.1,20713
+Sant Llorenç de Morunys,Solsonès,175,272.96,55.07,1965.0,5.1,25.1,19218
+Vallmoll,Alt Camp,170,212.43,42.31,1975.0,7.6,26.5,20302
+Fonollosa,Bages,169,227.19,49.72,1981.0,14.8,29.6,19853
+Vallfogona de Balaguer,Noguera,168,234.69,50.55,1996.0,10.7,22.6,17366
+Riudecols,Baix Camp,166,208.58,41.12,1975.0,4.8,31.9,18913
+Bordils,Gironès,166,164.61,34.27,1960.0,19.9,22.9,20501
+Sant Julià del Llor i Bonmatí,Selva,165,219.9,45.55,1975.0,10.3,40.6,19452
+Vallbona d'Anoia,Anoia,162,237.4,49.44,1964.0,6.2,29.0,18561
+Riudecanyes,Baix Camp,157,207.21,42.15,1996.0,9.6,22.3,17367
+Sant Feliu de Pallerols,Garrotxa,157,275.18,61.51,1977.0,12.7,47.8,17170
+Cabra del Camp,Alt Camp,155,233.09,48.53,1988.0,5.2,35.5,15611
+Santa Eulàlia de Riuprimer,Osona,154,199.99,42.69,2000.0,14.9,26.0,21179
+Sant Guim de Freixenet,Segarra,149,272.91,56.72,1981.0,4.0,29.5,16924
+Arbeca,Garrigues,148,250.95,54.54,1972.0,14.9,25.0,19515
+Cellera de Ter,Selva,146,226.42,47.03,1973.0,7.5,42.5,19797
+Castellví de la Marca,Alt Penedès,146,191.57,38.73,1970.0,14.4,30.1,17938
+Torrelavit,Alt Penedès,146,178.35,37.03,1966.0,8.9,21.9,22032
+Bellvís,Pla d'Urgell,142,273.26,60.31,1967.0,9.9,25.4,16996
+Calders,Moianès,141,236.86,51.19,1975.0,17.7,38.3,21414
+Flaçà,Gironès,141,235.06,48.61,1973.0,7.1,50.4,18898
+Mont-ras,Baix Empordà,139,211.67,46.52,1982.0,11.5,28.8,20474
+Benavent de Segrià,Segrià,138,255.3,52.27,1991.0,10.1,13.0,18487
+Bossòst,Val d'Aran,138,294.05,61.47,1987.0,5.8,21.7,18828
+Golmés,Pla d'Urgell,137,224.29,46.26,1988.0,14.6,10.9,18584
+Vila-rodona,Alt Camp,135,207.75,40.27,1959.0,5.2,29.6,16615
+Torres de Segre,Segrià,133,281.23,59.88,1982.0,7.5,29.3,17171
+Sarral,Conca de Barberà,132,201.04,41.88,1969.0,2.3,23.5,16551
+Preses,Garrotxa,129,252.14,55.22,1987.0,7.0,34.1,20981
+Montesquiu,Osona,128,224.93,47.91,1970.0,3.1,32.0,17499
+Montferrer i Castellbò,Alt Urgell,126,269.63,56.33,1989.0,14.3,20.6,16587
+Vilanova de Segrià,Segrià,125,216.79,46.07,1993.0,15.2,14.4,17569
+Anglesola,Urgell,124,242.23,50.76,1971.0,11.3,19.4,16920
+Oliana,Alt Urgell,124,259.93,52.73,1978.0,5.6,24.2,18125
+Puigverd de Lleida,Segrià,123,250.61,54.52,1988.0,14.6,21.1,16966
+Aitona,Segrià,122,229.82,47.66,1968.0,22.1,23.8,15079
+Corbins,Segrià,122,256.5,55.39,1975.0,14.8,20.5,16390
+Figaró-Montmany,Vallès Oriental,122,230.52,47.43,1971.0,2.5,39.3,18302
+"Castell d'Aro, Platja d'Aro i s'Agaró",Baix Empordà,121,219.97,42.44,1981.0,1.7,43.0,15274
+Gandesa,Terra Alta,121,217.78,44.19,1958.0,4.1,31.4,16171
+Cornudella de Montsant,Priorat,120,213.76,42.16,1972.0,3.3,26.7,17558
+Ivars d'Urgell,Pla d'Urgell,119,295.24,66.0,1955.0,7.6,27.7,18003
+Torà,Segarra,119,269.68,60.09,1970.0,10.1,31.9,18629
+Vall de Bianya,Garrotxa,117,210.1,45.12,1968.0,9.4,19.7,22171
+Os de Balaguer,Noguera,116,231.75,47.89,1986.0,12.9,12.1,16154
+Cabanyes,Alt Penedès,113,184.4,41.0,1987.0,13.3,18.6,21169
+Vilajuïga,Alt Empordà,111,173.14,37.87,1987.0,9.9,17.1,18897
+Vilobí del Penedès,Alt Penedès,110,165.89,36.95,1970.0,19.1,12.7,18567
+Olost,Osona,110,226.46,52.27,1952.0,20.0,27.3,21828
+Planes d'Hostoles,Garrotxa,109,253.21,54.92,1971.0,8.3,50.5,19067
+Avinyonet de Puigventós,Alt Empordà,108,206.05,47.36,1989.0,11.1,27.8,19601
+Armentera,Alt Empordà,108,187.19,39.17,1969.0,17.6,27.8,17481
+Tivissa,Ribera d'Ebre,108,171.83,34.99,1954.0,13.9,7.4,17061
+Botarell,Baix Camp,108,201.61,39.63,1991.0,6.5,20.4,18813
+Térmens,Noguera,106,228.33,48.77,1981.0,16.0,16.0,17261
+Artesa de Lleida,Segrià,106,229.93,50.63,1984.0,15.1,17.0,17192
+Verges,Baix Empordà,106,207.15,42.01,1967.0,7.5,34.0,20261
+Ullà,Baix Empordà,106,216.76,45.42,1981.0,6.6,37.7,15291
+Bàscara,Alt Empordà,105,214.15,44.93,1937.0,9.5,33.3,18324
+Bellcaire d'Urgell,Noguera,104,233.01,50.41,1972.0,5.8,14.4,18526
+Llers,Alt Empordà,102,231.35,47.94,1975.0,13.7,38.2,19675
+Pobla de Lillet,Berguedà,100,271.4,56.83,1962.0,2.0,40.0,19927
+Vilanova de Bellpuig,Pla d'Urgell,98,219.66,49.87,1962.0,15.3,17.3,16725
+Puigpelat,Alt Camp,98,179.99,37.01,1990.0,6.1,16.3,17288
+Batea,Terra Alta,98,198.46,40.09,1948.0,13.3,17.3,14692
+Masdenverge,Montsià,97,201.35,38.43,1982.0,4.1,33.0,15342
+Fontcoberta,Pla de l'Estany,96,182.7,41.01,1990.0,34.4,22.9,21275
+Soses,Segrià,95,263.93,55.71,1979.0,13.7,26.3,16293
+Sant Cugat Sesgarrigues,Alt Penedès,95,170.07,34.34,1974.0,26.3,15.8,19656
+Isona i Conca Dellà,Pallars Jussà,94,313.48,68.71,1953.0,9.6,37.2,17848
+Albesa,Noguera,91,258.95,55.01,1974.0,14.3,19.8,17058
+Ràpita,Montsià,90,184.96,33.92,1991.0,0.0,51.1,15856
+Vilanova de la Barca,Segrià,89,233.06,48.47,1987.0,28.1,23.6,17545
+Les,Val d'Aran,88,230.78,48.53,1992.0,6.8,12.5,22176
+Vilamalla,Alt Empordà,88,204.82,42.0,1992.0,11.4,26.1,16673
+Xerta,Baix Ebre,87,194.68,37.96,1955.0,6.9,29.9,16682
+Ascó,Ribera d'Ebre,87,178.44,34.37,1948.0,5.7,24.1,17659
+Corçà,Baix Empordà,86,216.72,45.99,1959.0,11.6,26.7,21301
+"Cruïlles, Monells i Sant Sadurní de l'Heura",Baix Empordà,85,192.85,41.01,1964.0,9.4,22.4,23866
+Roda de Berà,Tarragonès,84,193.2,38.23,1994.0,1.2,20.2,17057
+Santa Maria d'Oló,Moianès,84,275.89,58.92,1940.0,6.0,51.2,19303
+Font-rubí,Alt Penedès,84,232.59,50.91,1969.0,11.9,35.7,17976
+Serinyà,Pla de l'Estany,82,215.05,46.98,1968.0,13.4,29.3,17877
+Miralcamp,Pla d'Urgell,81,230.43,48.94,1983.0,12.3,11.1,15841
+Santa Pau,Garrotxa,80,241.93,52.9,1937.0,12.5,26.2,21129
+Seròs,Segrià,79,244.02,50.51,1963.0,20.3,27.8,14689
+Riba-roja d'Ebre,Ribera d'Ebre,73,203.87,41.05,1962.0,9.6,30.1,17413
+Gimenells i el Pla de la Font,Segrià,62,281.72,63.71,1978.0,9.7,33.9,16123
+Benissanet,Ribera d'Ebre,60,185.05,36.77,1958.0,0.0,33.3,14797
+Horta de Sant Joan,Terra Alta,59,207.57,42.16,1930.0,10.2,33.9,16235
+Fuliola,Urgell,58,267.58,58.63,1943.0,10.3,24.1,15872
+Bigues i Riells del Fai,Vallès Oriental,56,240.08,52.32,1984.0,5.4,25.0,21632
+Cervià de Ter,Gironès,52,225.69,48.99,1972.0,5.8,28.8,22385
+Corbera d'Ebre,Terra Alta,51,218.12,41.91,1966.0,9.8,35.3,15061
+Pinell de Brai,Terra Alta,28,212.66,40.58,1950.0,10.7,25.0,17080
+Pallaresoss,Tarragonès,18,215.55,41.19,1997.0,0.0,16.7,20570
+Esquirol,Osona,12,225.1,52.84,1983.0,8.3,33.3,20513
+Hostalets de Pierolas,Anoia,12,160.02,31.56,1991.0,8.3,8.3,18155
